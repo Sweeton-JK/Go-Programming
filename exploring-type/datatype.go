@@ -5,7 +5,7 @@ import "fmt"
 var y = 10
 var a = "Sweet"
 
-var dialogue string  =`James said,"He is good at golang"`
+var dialogue =`James said,"He is good at golang"`
 
 func main() {
 	fmt.Printf("%T\n",y)
